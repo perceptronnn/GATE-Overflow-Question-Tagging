@@ -1,0 +1,303 @@
+Algorithm Design
+Algorithm Design Techniques
+Asymptotic Notations
+Bst
+Dynamic Programming
+Graph Algorithms
+Greedy Algorithm
+Huffman Code
+Identify Function
+Minimum Maximum
+Np Completeness
+Numerical Computation
+Recurrence
+Searching
+Sorting
+Spanning Tree
+Time Complexity
+Addressing Modes
+Cache Memory
+Cisc Risc Architecture
+Clock Frequency
+Conflict Misses
+Control Unit
+Data Dependences
+Data Path
+Disks
+Dma
+Instruction Execution
+Instruction Format
+Interrupts
+Io Handling
+Machine Instructions
+Memory Interfacing
+Microprogramming
+Page Fault
+Pipelining
+Runtime Environments
+Speedup
+True False
+Virtual Memory
+Abstract Syntax Tree
+Assembler
+Code Optimization
+Compilation Phases
+Expression Evaluation
+Expression Tree
+Grammar
+Infix Postfix
+Intermediate Code
+Left Recursion
+Lexical Analysis
+Linking
+Live Variable
+Macros
+Parameter Passing
+Parsing
+Programming In C
+Recursion
+Register Allocation
+Static Single Assignment
+Syntax Directed Translation
+Target Code Generation
+Variable Scope
+Viable Prefix
+
+Application Layer Protocols
+Bit Stuffing
+Bridges
+Communication
+Congestion Control
+Crc Polynomial
+Cryptography
+Csma Cd
+Distance Vector Routing
+Dns
+Encoding
+Error Detection
+Ethernet
+Firewall
+Hamming Code
+Icmp
+Ip Packet
+Ipv4
+Lan Technologies
+Link State Routing
+Longest Mask
+Mac Protocol
+Manchester Encoding
+Network Addressing
+Network Communication
+Network Flow
+Network Layering
+Network Protocols
+Network Security
+Network Switching
+Osi Protocol
+Routers Bridge Hubs Switches
+Routing
+Rsa Security Networks
+Selective Repeat
+Serial Communication
+Sliding Window
+Sockets
+Stop And Wait
+Subnetting
+Tcp
+Token Bucket
+Udp
+Wifi
+B Tree
+Candidate Keys
+Concurrency
+Conflict Serializable
+Data Independence
+Database
+Database Normalization
+Er Diagram
+File System
+Functional Dependencies
+Indexing
+Joins
+Multivalued Dependency 4nf
+Natural Join
+Referential Integrity
+Relational Algebra
+Relational Calculus
+Safe Query
+Sql
+Sub Queries
+Timestamp Ordering
+Transaction And Concurrency
+Transactions
+Tree
+Uniform Distribution
+Adder
+Array Multiplier
+Boolean Algebra
+Boolean Expressions
+Boolean Operations
+Booth Recoding
+Booths Algorithm
+Canonical Normal Form
+Carry Generator
+Circuit Output
+Combinational
+Conjunctive Normal Form
+Decoder
+Digital Circuits
+Digital Counter
+Dual Function
+Fixed Point Representation
+Flip Flop
+Floating Point Representation
+Functional Completeness
+Gray Code
+Half Adder
+Ieee Representation
+K Map
+Logic Gates
+Min No Gates
+Min Product Of Sums
+Min Sum Of Products Form
+Minimal State Automata
+Multiplexer
+Number Representation
+Phase Shift
+Prime Implicants
+Ram
+Rom
+Rs Flip Flop
+Shift Registers
+Static Hazard
+Synchronous Asynchronous Circuits
+Synchronous Circuit
+Synchronous Counter
+Xor
+Generating Functions
+Modular Arithmetic
+Permutations And Combinations
+Pigeonhole Principle
+Summation
+Counting
+Degree Of Graph
+Euler Graph
+Graph Coloring
+Graph Connectivity
+Graph Isomorphism
+Graph Matching
+Graph Planarity
+Line Graph
+Regular Graph
+Trees
+Vertex Cover
+First Order Logic
+Logical Reasoning
+Propositional Logic
+Binary Operation
+Fields
+Functions
+Groups
+Lattice
+Number System
+Number Theory
+Partial Order
+Polynomials
+Relations
+Sets
+Continuity
+Differentiability
+Integration
+Limits
+Maxima Minima
+Determinant
+Eigen Value
+Matrices
+System Of Equations
+Vector Space
+Bayes Theorem
+Binomial Distribution
+Conditional Probability
+Expectation
+Exponential Distribution
+Normal Distribution
+Permutation Combination
+Poisson Distribution
+Probability
+Random Variable
+Absolute Value
+Clock Time
+Cost Market Price
+Data Interpretation
+Direction Sense
+Factors
+Geometry
+Inference
+No Of Digits
+Number Series
+Percentage
+Proportions
+Quadratic Equations
+Statement Sufficiency
+Work Time
+English Grammar
+Passage Reading
+Tenses
+Verbal Reasoning
+Word Pairs
+Computer Peripherals
+Context Switch
+Critical Section
+Dining Philosopher
+Disk Scheduling
+Effective Memory Access
+File
+Fork
+Inter Process Communication
+Memory Allocation
+Memory Management
+Os Protection
+Overlay
+Page Replacement
+Precedence Graph
+Process
+Process Schedule
+Process Synchronization
+Resource Allocation
+Semaphore
+System Calls
+Threads
+User Modes
+Working Set
+Abstract Data Type
+Arrays
+Binary Search Tree
+Binary Tree
+Graphs
+Hashing
+Heap
+Linked Lists
+Priority Queue
+Queues
+Stack
+Aliasing
+Goto
+Loop Invariants
+Programming Constructs
+Programming Paradigms
+Pseudo Code
+Type Checking
+Closure Property
+Context Free Language
+Countable Set
+Decidability
+Finite Automata
+Identify Class Language
+Non Determinism
+Pumping Lemma
+Pushdown Automata
+Recursive And Recursively Enumerable Languages
+Regular Expressions
+Regular Grammar
+Regular Languages
+Turing Machine
