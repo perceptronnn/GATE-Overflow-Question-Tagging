@@ -8,7 +8,7 @@ with open(data_path, 'r') as f:
 #spliting based on tags - 
 tag_list = str(data).split('"],"') #split across "],"
 num_of_tags = len(tag_list)
-print("There are " + str(num_of_tags) + "distinct tags.\n")
+print("There are " + str(num_of_tags) + " distinct tags.\n")
 temp = tag_list[num_of_tags - 1]
 temp = temp[:-5]
 tag_list[num_of_tags - 1] = temp
