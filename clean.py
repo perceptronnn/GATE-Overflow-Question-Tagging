@@ -32,6 +32,7 @@ def clean_text(raw_text):
   cleaned_html = re.sub('\\\\n', '', cleaned_html)
   cleaned_html = re.sub('\\\\t', '', cleaned_html)
   cleantext = re.sub(r'\W+',' ', cleaned_html)
+  cleantext = re.sub('nbsp', '', cleantext)
   return cleantext
 out = 'Question, Tag\n' #Header for output file
 for tag in tup:
